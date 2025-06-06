@@ -27,8 +27,8 @@ pip install -r requirements.txt
 ### Create a `.env` file in the root directory and add your Pinecone & openai credentials as follows:
 
 ```ini
-PINECONE_API_KEY = "pcsk_4ZjtBk_SvPtxSJbXDjAtZUoxVSUdVPCQL14gUe4pVo9LMVXhLsV2GzTb7vTQr76UW4mUYB"
-GOOGLE_API_KEY = "AIzaSyD6Ra2vtE_SOgMaaGAUj6cxXvsLY75hA88"
+PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
 
 
